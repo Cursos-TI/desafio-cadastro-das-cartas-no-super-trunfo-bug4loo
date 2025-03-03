@@ -6,6 +6,7 @@ int main () {
 - Para evitar o uso de estruturas de repetição no código, serão usadas variáveis diferentes para cada uma das cartas cadastradas.
 */
 
+
     char estado1, estado2;
     char codigo1[4], codigo2[4];
     char cidade1[30], cidade2[30];
