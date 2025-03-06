@@ -64,7 +64,7 @@ int main () {
     printf("\nDADOS CADASTRADOS!!!\n\n");
     printf("EXIBINDO CARTAS CADASTRADAS:\n\n");
 
-// Exibe as informações das cartas cadastradas:
+// Exibe as informações das cartas cadastradas
 
     printf("*** CARTA 1 ***\n");
     printf("Estado: %c\n", estado1);
