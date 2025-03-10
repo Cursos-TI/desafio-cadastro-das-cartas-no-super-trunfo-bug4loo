@@ -115,6 +115,9 @@ int main () {
     printf("Número de pontos turísticos: Carta 1 venceu? (%d)\n", pontos_tur1 > pontos_tur2);
     printf("Densidade demográfica: Carta 1 venceu? (%d)\n", (1 / densidade1) > (1 / densidade2));
     printf("PIB per Capita: Carta 1 venceu? (%d)\n", pibcapita1 > pibcapita2);
+    printf("Super Poder: Carta 1 venceu? (%d)\n", superpoder1 > superpoder2);
+
+    printf("\n\n *** OBRIGADO POR JOGAR ***\n\n");
 
 return 0;
 }
